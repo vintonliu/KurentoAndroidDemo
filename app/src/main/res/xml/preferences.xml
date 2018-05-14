@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference android:title="Server address"
+                        android:key="serverName"
+                        android:defaultValue="https://149.28.42.205:8443/room"
+                        android:summary="Determine server IP-address"></EditTextPreference>
+
+</PreferenceScreen>
