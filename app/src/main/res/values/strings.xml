@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">KurentoAndroidDemo</string>
+
+    <string name="default_server_url">https://149.28.42.205:8443/room</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_leave_room">Leave room</string>
+
+    <string name="login">Choose a username and room name:</string>
+    <string name="username">Username</string>
+
+    <string name="name">Name</string>
+    <string name="room">Room</string>
+    <string name="message">Message</string>
+    <string name="not_joined_to_room">You are not joined to any room.</string>
+    <string name="not_connected">You are not connected to the server.</string>
+
+    <string name="button_connect">Connect</string>
+    <string name="button_join_room">Join room</string>
+    <string name="button_send_message">Send message</string>
+    <string name="button_start_videocall">Start videocall</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
 </resources>
